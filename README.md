@@ -30,9 +30,13 @@ Neural Networks
 Deep Learning
 
 - 📫 How to reach me ...
+- 
 LinkedIn: www.linkedin.com/in/rubiel-gonzalez-labarta
+
 Email: rubiel.labarta@gmail.com
+
 Telegram: (+53) 5679-8981
+
 
 
 <!---
