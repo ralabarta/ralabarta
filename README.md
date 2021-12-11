@@ -19,7 +19,7 @@ Progressive Web
 
 - 🌱 I’m currently learning ...
 
-Python for data Scientists
+Python for data Science
 
 - 💞️ I’m looking to collaborate on ...
 
@@ -30,7 +30,7 @@ Neural Networks
 Deep Learning
 
 - 📫 How to reach me ...
-- 
+
 LinkedIn: www.linkedin.com/in/rubiel-gonzalez-labarta
 
 Email: rubiel.labarta@gmail.com
