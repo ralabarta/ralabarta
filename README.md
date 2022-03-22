@@ -44,6 +44,8 @@ Telegram: (+53) 5679-8981
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralabarta&show_icons=true&locale=en" alt="ralabarta" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ralabarta&" alt="ralabarta" /></p>
+
 
 <!---
 ralabarta/ralabarta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
