@@ -5,14 +5,14 @@ I specialize in Java echosystem.
 
 - 👀 I’m interested in ...
 
-Java Echisystem
-Spring Boot
-Clean Architecture
-Design Patterns
-Jasper Reports
-jMeter
-jUnit
-Functional Programming
+Java Echisystem </br>
+Spring Boot </br>
+Clean Architecture </br>
+Design Patterns </br>
+Jasper Reports </br>
+jMeter </br>
+jUnit </br>
+Functional Programming </br>
 
 - 🌱 I’m currently learning ...
 
