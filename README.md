@@ -1,22 +1,22 @@
 - 👋 Hi, I’m Rubiel Alejandro González Labarta
 
-I am a Project Manager and Backend Developer passionate about what I do and who likes the challenge of working on innovative projects and being part of a creative and committed team. My main focus is on software development, although I also have experience Leading Teams and as an JAVA Architect. I like to stay up-to-date with emerging technologies and participate in FORUMS and discussions on those topics. When I'm not coding, you can find me reading books, at the movies, or at the theater. I have 8 years of experience in designing and implementing software solutions in different contexts and with high quality standards. 
-I specialize in Java echosystem.
+I am a Software Engineer, Project Manager, Scrum Master and Python Expert passionate about what I do and who likes the challenge of working on innovative projects and being part of a creative and committed team. I have more than 7 years of experience leading, developing, designing and implementing software solutions in different contexts and with high quality standards.
 
 - 👀 I’m interested in ...
 
-Java Echosystem </br>
-Spring Boot </br>
+Python Echosystem </br>
+Django | Flask | Fast API </br>
 Clean Architecture </br>
 Design Patterns </br>
-Jasper Reports </br>
-jMeter </br>
-jUnit </br>
+Machine Learning </br>
+Data Science </br>
+Torch | TensorFlow | Transformers </br>
 Functional Programming </br>
+Neural Networks </br>
 
 - 🌱 I’m currently learning ...
 
-Functional Programming in Java
+GGML and LanngChain
 
 - 💞️ I’m looking to collaborate on ...
 
