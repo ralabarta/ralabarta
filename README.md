@@ -16,7 +16,7 @@ Neural Networks </br>
 
 - 🌱 I’m currently learning ...
 
-GGML and LanngChain
+Machine Learning, LangChain, Pydantic
 
 - 💞️ I’m looking to collaborate on ...
 
