@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rubiel González Labarta - Software and AI Architect, Engineering Leader and Builder">
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,55:0F4C81,100:14B8A6&text=Rubiel%20Gonz%C3%A1lez%20Labarta&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20%26%20AI%20Architect%20%E2%80%A2%20Engineering%20Leader%20%E2%80%A2%20Builder&descAlignY=57&descSize=17&animation=fadeIn)
 
 ### I turn ambitious product goals into scalable software, applied AI and reliable engineering execution.
 
@@ -164,5 +164,7 @@ Open to conversations around **Software / AI Architect, Staff–Principal Engine
 [![Start a conversation](https://img.shields.io/badge/Start_a_conversation-rubiel.labarta%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubiel.labarta@gmail.com)
 
 <sub>Architecture with intent · AI with evidence · Leadership with accountability</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07111F,55:0F4C81,100:14B8A6)
 
 </div>
