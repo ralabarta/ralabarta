@@ -1,6 +1,6 @@
 <div align="center">
 
-[Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,55:0F4C81,100:14B8A6&text=Rubiel%20Gonz%C3%A1lez%20Labarta&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20%26%20AI%20Architect%20%E2%80%A2%20Engineering%20Leader%20%E2%80%A2%20Builder&descAlignY=57&descSize=17&animation=fadeIn)
+[Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,55:0F4C81,100:14B8A6&text=Rubiel%20Gonz%C3%A1lez%20Labarta&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20and%20AI%20Architect%20%E2%80%A2%20Engineering%20Leader%20%E2%80%A2%20Builder&descAlignY=57&descSize=17&animation=fadeIn)
 
 ### I turn ambitious product goals into scalable software, applied AI and reliable engineering execution.
 
