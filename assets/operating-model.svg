@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-driven engineering operating model</title>
+  <desc id="desc">A loop from business outcomes through constraints, architecture decisions, a thin vertical slice and production evidence.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0b2948"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity="0.055"/>
+    </pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0l8 4-8 4z" fill="#38bdf8"/>
+    </marker>
+  </defs>
+
+  <rect width="1440" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1440" height="420" rx="28" fill="url(#grid)"/>
+
+  <text x="72" y="70" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Evidence-driven engineering</text>
+  <text x="72" y="102" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">A repeatable path from intent to production learning</text>
+  <rect x="72" y="121" width="360" height="4" rx="2" fill="url(#line)"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(72 174)">
+      <rect width="226" height="116" rx="18" fill="#0f253d" stroke="#38bdf8" stroke-opacity="0.5"/>
+      <circle cx="30" cy="30" r="15" fill="#0c4a6e"/>
+      <text x="30" y="36" text-anchor="middle" fill="#bae6fd" font-size="16" font-weight="700">1</text>
+      <text x="24" y="69" fill="#f8fafc" font-size="18" font-weight="700">Business outcome</text>
+      <text x="24" y="94" fill="#94a3b8" font-size="14">Value, users, success</text>
+    </g>
+
+    <g transform="translate(338 174)">
+      <rect width="226" height="116" rx="18" fill="#0f253d" stroke="#38bdf8" stroke-opacity="0.38"/>
+      <circle cx="30" cy="30" r="15" fill="#0c4a6e"/>
+      <text x="30" y="36" text-anchor="middle" fill="#bae6fd" font-size="16" font-weight="700">2</text>
+      <text x="24" y="69" fill="#f8fafc" font-size="18" font-weight="700">Constraints &amp; risk</text>
+      <text x="24" y="94" fill="#94a3b8" font-size="14">Cost, time, security</text>
+    </g>
+
+    <g transform="translate(604 174)">
+      <rect width="226" height="116" rx="18" fill="#10334a" stroke="#2dd4bf" stroke-opacity="0.62"/>
+      <circle cx="30" cy="30" r="15" fill="#115e59"/>
+      <text x="30" y="36" text-anchor="middle" fill="#ccfbf1" font-size="16" font-weight="700">3</text>
+      <text x="24" y="69" fill="#f8fafc" font-size="16" font-weight="700">Architecture decisions</text>
+      <text x="24" y="94" fill="#99f6e4" font-size="14">Options and trade-offs</text>
+    </g>
+
+    <g transform="translate(870 174)">
+      <rect width="226" height="116" rx="18" fill="#0f253d" stroke="#2dd4bf" stroke-opacity="0.4"/>
+      <circle cx="30" cy="30" r="15" fill="#115e59"/>
+      <text x="30" y="36" text-anchor="middle" fill="#ccfbf1" font-size="16" font-weight="700">4</text>
+      <text x="24" y="69" fill="#f8fafc" font-size="18" font-weight="700">Thin vertical slice</text>
+      <text x="24" y="94" fill="#94a3b8" font-size="14">Working end to end</text>
+    </g>
+
+    <g transform="translate(1136 174)">
+      <rect width="232" height="116" rx="18" fill="#0f253d" stroke="#2dd4bf" stroke-opacity="0.5"/>
+      <circle cx="30" cy="30" r="15" fill="#115e59"/>
+      <text x="30" y="36" text-anchor="middle" fill="#ccfbf1" font-size="16" font-weight="700">5</text>
+      <text x="24" y="69" fill="#f8fafc" font-size="18" font-weight="700">Evidence &amp; feedback</text>
+      <text x="24" y="94" fill="#94a3b8" font-size="14">Observe, learn, evolve</text>
+    </g>
+  </g>
+
+  <g stroke="url(#line)" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <path d="M300 232h31"/>
+    <path d="M566 232h31"/>
+    <path d="M832 232h31"/>
+    <path d="M1098 232h31"/>
+  </g>
+
+  <path d="M1252 306v48H188v-48" fill="none" stroke="#2dd4bf" stroke-opacity="0.72" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <rect x="620" y="336" width="200" height="36" rx="18" fill="#0f3b4a" stroke="#2dd4bf" stroke-opacity="0.55"/>
+  <text x="720" y="359" text-anchor="middle" fill="#ccfbf1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">ITERATE DELIBERATELY</text>
+</svg>
